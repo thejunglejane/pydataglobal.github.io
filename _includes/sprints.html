@@ -8,6 +8,7 @@
     {% for talk in sprints %}
         <div>
             <h2>{{ talk.title }}</h2>
+            <h4><a href="{{ talk.external_url }}">Go to NumFOCUS academy page.</a></h4>
             {{ talk.content | markdownify }}
             <hr/>
         </div>

@@ -54,7 +54,7 @@ title: Talk Release Schedule
 * **[Sampling from (truncated) high-dimensional logconcave densities with VolEsti (GeomScale Project)](../talks/144)**, by Marios Papachristou
 * **[UBI Center: A think tank built on GitHub, Python, and Jupyter](../talks/341)**, by Max Ghenis
 * **[Python, Let's Go Home. Quickly.](../talks/73)**, by Miroslav Šedivý
-* **[Matrix Profile API: A novel cross language time-series mining library](../talks/243)**, by Tyler Marrs
+* **[Matrix Profile API: A novel cross language time-series mining library](../talks/243)**, by Tyler Marrs and Andrew Van Benschoten
 
 ---
 
