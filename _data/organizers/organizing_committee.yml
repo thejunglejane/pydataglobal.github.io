@@ -147,11 +147,13 @@
   website_url: https://rikturr.com/
   image: /assets/images/organizers/aaron_richter.jpg
 
-- name: Nancy Woo
-  desc: Nancy works at CVS Health, where she serves as a product manager and strategist to utilize data to shift people’s behaviors and make members healthier. In her free time, she enjoys traveling (not during a pandemic), learning, and watching sports.
-  linkedin_url: https://www.linkedin.com/in/nancyw19/
-  image: /assets/images/organizers/nancy_w.jpg
-
+- name: John Sandall
+  desc: John Sandall is CEO at Coefficient. We're a full-stack data science consultancy & training company. We can build your ETL/analytics/ML solutions or teach you how to do it for yourself.
+  twitter_url: https://twitter.com/john_sandall
+  github_url: https://github.com/john-sandall/
+  linkedin_url: https://www.linkedin.com/in/johnsandall/
+  website_url: https://coefficient.ai/
+  image: /assets/images/organizers/john.png
 
 - name: Nancy Woo
   desc: Nancy works at CVS Health, where she serves as a product manager and strategist to utilize data to shift people’s behaviors and make members healthier. In her free time, she enjoys traveling (not during a pandemic), learning, and watching sports.
