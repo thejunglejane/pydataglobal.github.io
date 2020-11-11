@@ -86,7 +86,6 @@ title: Q&A Panels
 * **[Is a neural network better than Ash at detecting Team Rocket? If so, how?](../talks/58)**, by Juan De Dios Santos
 * **[TimeSeries Forecasting with ML Algorithms and there comparisons](../talks/51)**, by Sonam Pankaj
 * **[Visions: An Open-Source Library for Semantic Data](../talks/361)**, by Ian Eaves and Simon Brugman
-* **[Autonomous Vehicles See More With Thermal Imaging: Multi-modal thin cross section Object Detection](../talks/286)**, by Laisha Wadhwa
 
 <div class="panel-anchor" id="viz-2"></div>
 ## Panel #2
@@ -132,6 +131,7 @@ title: Q&A Panels
 * **[Taking Care of Parameters So You Don’t Have to with ParamTools](../talks/336)**, by Hank Doupe
 * **[FlyBrainLab: An Interactive Open Computing Platform for Exploring the Drosophila Brain](../talks/271)**, by Mehmet Kerem Turkcan, Aurel A. Lazar and Yiyin Zhou
 * **[Ensemble-X: Your personal strataGEM to build Ensembled Deep Learning Models for Medical Imaging](../talks/356)**, by Dipam Paul and Alankrita Tewari
+* **[Autonomous Vehicles See More With Thermal Imaging: Multi-modal thin cross section Object Detection](../talks/286)**, by Laisha Wadhwa
 
 <div class="panel-anchor" id="opensci-2"></div>
 ## Panel #2
