@@ -75,6 +75,7 @@ title: Q&A Panels
 * **[Rethinking Software Testing for Data Science](../talks/74)**, by Eduardo Blancas
 * **[Building one (multi-task) model to rule them all!](../talks/123)**, by Nicole Carlson and Michael Sugimura
 * **[Hosting Dask: Challenges and Opportunities](../talks/331)**, by Matthew Rocklin
+* **[Growing Machine Learning Platforms in the Enterprise](../talks/400)**, by Hussain Sultan and Ben Lindquist
 
 ---
 
