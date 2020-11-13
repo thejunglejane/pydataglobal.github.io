@@ -161,6 +161,22 @@
   linkedin_url: https://www.linkedin.com/in/deansilfen/
   image: /assets/images/organizers/deansilfen.jpg
 
+- name: Lauren Oldja
+  desc: Lauren is a Data Scientist and a Director at Don't Use This Code. She enjoys getting out the vote and hiking with her daughter's Girl Scout troop.
+  linkedin_url: https://www.linkedin.com/in/loldja
+  twitter_url: https://www.twitter.com/urbanplans
+  github_url: https://www.github.com/loldja
+  website_url: http://www.laurenoldja.net
+  image: /assets/images/organizers/lauren_oldja.jpg
+
+- name: Ian Ozsvald
+  desc: Ian is an Interim Chief Data Scientist, Coach and Teacher. He co-founded PyDataLondon (11k members), builds strategic plans for companies, co-authored High Performance Python (2nd ed, O'Reilly), teaches Higher Performance Python, Successful Data Science Projects and Software Engineering for Data Scientists. He likes Springer Spaniels and fine coffee.
+  linkedin_url: https://www.linkedin.com/in/ianozsvald/
+  twitter_url: https://twitter.com/ianozsvald
+  github_url: https://github.com/ianozsvald/
+  website_url: https://ianozsvald.com/
+  image: /assets/images/organizers/ian_ozsvald.jpg
+
 - name: Nancy Woo
   desc: Nancy works at CVS Health, where she serves as a product manager and strategist to utilize data to shift people’s behaviors and make members healthier. In her free time, she enjoys traveling (not during a pandemic), learning, and watching sports.
   linkedin_url: https://www.linkedin.com/in/nancyw19/
