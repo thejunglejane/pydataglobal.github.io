@@ -33,7 +33,6 @@ title: Q&A Panels
 #### [Go to NumFOCUS Academy page](./redirects/q&a/statistics_1)
 * **[Uncertainty Quantification for Online Learning via Hierarchical Incremental Gradient Descent](../talks/100)**, by Vihan Singh
 * **[What cyber security can teach us about COVID-19 testing](../talks/238)**, by Hagit Grushka - Cohen
-* **[Ordinary viDeogame Equations: Winning games with PyMC3, sundials and numba](../talks/267)**, by Adrian Seyboldt
 * **[ML-Based Time Series Regression: 10 concepts we learned from Demand Forecasting](../talks/394)**, by Felix Wick
 
 <div class="panel-anchor" id="stats-2"></div>
